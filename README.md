@@ -40,7 +40,9 @@ Here are some of the projects I've been working on:
 ## 📫 Connect With Me
 
 * LinkedIn: **[OtuweWisdom](https://www.linkedin.com/in/otuwewisdom/)**
-* Email: **[otuwewisdom02@gmail.com](mailto:otuwewisdom02@gmail.com)**
+* Email: **[otuwewisdom01@gmail.com](mailto:otuwewisdom01@gmail.com)**
+* x: **[OtuweWisdom](https://x.com/devwizzy7)**
+* TikTok: **[OtuweWisdom](https://www.tiktok.com/@devwizzy)**
 
 ---
 

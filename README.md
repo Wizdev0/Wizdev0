@@ -1,59 +1,47 @@
-👋 Hi, I'm Otuwe Wisdom
+# Hi there, I'm Otuwe Wisdom 👋
 
-Web Developer • •
+## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm Otuwe Wisdom, a passionate web developer focused on creating clean, responsive, and user‑friendly web experiences. I love building projects that solve real problems and deepen my knowledge of front‑end development.
+I'm an aspiring Frontend Web Developer passionate about creating responsive, accessible, and user-friendly web experiences. I enjoy turning ideas into clean, functional websites while continuously learning modern web technologies.
 
-🚀 What I Do
+I'm currently focused on strengthening my frontend development skills through hands-on projects and exploring best practices in web development.
 
-Front-End Development: HTML, CSS, JavaScript
+## 🚀 Tech Stack
 
-Responsive Design: Crafting layouts that work beautifully on all screen sizes
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React
+* Responsive Web Design
 
-UI/UX Implementation: Turning ideas into smooth, modern interfaces
+## 📚 Currently Learning
 
-🧰 Tech Stack
+* Advanced React
+* API Integration
+* Modern JavaScript Patterns
+* Performance Optimization
 
-Languages: HTML, CSS, JavaScript
+## 💼 Featured Projects
 
-Tools: VS Code, Chrome DevTools
+Here are some of the projects I've been working on:
 
-Frameworks: (Learning more as I grow!)
+* 🌐 Personal Portfolio Website
+* ⌨️ Typing Test Application
+* 📱 Responsive Landing Pages
+* 🎨 UI Components and Animations
 
-Version Control: Git & GitHub
+## 🎯 Goals
 
+* Build impactful web applications
+* Contribute to open-source projects
+* Continue learning modern frontend technologies
+* Collaborate with other developers
 
+## 📫 Connect With Me
 
-🛠️ What I'm Currently Working On
+* LinkedIn: **[OtuweWisdom](https://www.linkedin.com/in/otuwewisdom/)**
+* Email: **[otuwewisdom02@gmail.com](mailto:otuwewisdom02@gmail.com)**
 
-Building responsive interfaces using modern layout techniques
+---
 
-Improving my JavaScript skills through real projects
-
-
-📫 Contact Me
-
-Phone: 080862749407
-
-Email: otuwewisdom02@gmail.com
-
-Feel free to reach out for collaborations, learning, or project ideas.
-
-
-
-🌱 Fun Facts
-
-I speak English.
-
-I enjoy learning how things work and building practical tools.
-
-I love experimenting with new UI designs and animations.
-
-I like solving coding challenges to improve my logic.
-
-I enjoy clean, minimalistic layouts.
-
-I’m always exploring better ways to structure and style responsive websites.
-
-Thanks for stopping by! ⭐
-If you like my work, feel free to star a repo or connect with me!
+*"Every project is another opportunity to learn, improve, and create something meaningful."*
